@@ -21,6 +21,7 @@ Classifying bees/ants.
 
 # Experimental Setup
 ## Dataset
+https://download.pytorch.org/tutorial/hymenoptera_data.zip  
 Training set: 245 total images - 124 ant images, 121 bee images  
 Validation set: 153 total images - 70 ant images, 83 bee images  
 Dimensions: The dimensions of each image in the data vary.  
